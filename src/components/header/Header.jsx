@@ -12,5 +12,6 @@ const Header = () => {
             <Navbar toggle={toggle} setToggle = {setToggle}/>
         </header>
     );
+
 }
 export default Header;
