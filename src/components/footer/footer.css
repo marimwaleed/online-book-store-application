@@ -60,6 +60,8 @@
   color: var(--main-color);
   cursor: pointer;
   margin-bottom: 10px;
+  display: block;
+  text-decoration: none;
 }
 .footer-address-item {
   margin-bottom: 20px;
